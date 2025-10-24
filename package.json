@@ -1,0 +1,27 @@
+{
+  "name": "gussweather-nodeserver",
+  "version": "1.0.1",
+  "description": "GussWeather is an open-source weather station for every maker, designed to capture the sky and the environment.",
+  "keywords": [
+    "Weather",
+    "Station"
+  ],
+  "homepage": "https://github.com/gusswith/gussweather-nodeserver#readme",
+  "bugs": {
+    "url": "https://github.com/gusswith/gussweather-nodeserver/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gusswith/gussweather-nodeserver.git"
+  },
+  "license": "MIT",
+  "author": "gusswith",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "start": ""
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
